@@ -1,0 +1,76 @@
+{
+  "object_kind": "issue",
+  "event_type": "issue",
+  "user": {
+    "name": "Josh Wolff",
+    "username": "joshwolff1",
+    "avatar_url": "https://secure.gravatar.com/avatar/b26ff4fb97d03399c5fbead9c12b72f2?s=80&d=identicon",
+    "email": "apple@apple.org"
+  },
+  "project": {
+    "id": 20020099,
+    "name": "spontit-webhook-gitlab-test",
+    "description": "",
+    "web_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "git_http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git",
+    "namespace": "Josh Wolff",
+    "visibility_level": 20,
+    "path_with_namespace": "joshwolff1/spontit-webhook-gitlab-test",
+    "default_branch": "master",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+    "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git"
+  },
+  "object_attributes": {
+    "author_id": 6440525,
+    "closed_at": null,
+    "confidential": false,
+    "created_at": "2020-07-18T02:30:13.603Z",
+    "description": "This is an issue description",
+    "discussion_locked": null,
+    "due_date": null,
+    "id": 64933647,
+    "iid": 1,
+    "last_edited_at": null,
+    "last_edited_by_id": null,
+    "milestone_id": null,
+    "moved_to_id": null,
+    "duplicated_to_id": null,
+    "project_id": 20020099,
+    "relative_position": 1073742323,
+    "state_id": 1,
+    "time_estimate": 0,
+    "title": "A new issue",
+    "updated_at": "2020-07-18T02:30:13.603Z",
+    "updated_by_id": null,
+    "weight": null,
+    "url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test/-/issues/1",
+    "total_time_spent": 0,
+    "human_total_time_spent": null,
+    "human_time_estimate": null,
+    "assignee_ids": [
+
+    ],
+    "assignee_id": null,
+    "labels": [
+
+    ],
+    "state": "opened"
+  },
+  "labels": [
+
+  ],
+  "changes": {
+
+  },
+  "repository": {
+    "name": "spontit-webhook-gitlab-test",
+    "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "description": "",
+    "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test"
+  }
+}

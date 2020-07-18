@@ -1,0 +1,125 @@
+{
+  "object_kind": "merge_request",
+  "event_type": "merge_request",
+  "user": {
+    "name": "Josh Wolff",
+    "username": "joshwolff1",
+    "avatar_url": "https://secure.gravatar.com/avatar/b26ff4fb97d03399c5fbead9c12b72f2?s=80&d=identicon",
+    "email": "apple@apple.org"
+  },
+  "project": {
+    "id": 20020099,
+    "name": "spontit-webhook-gitlab-test",
+    "description": "",
+    "web_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "git_http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git",
+    "namespace": "Josh Wolff",
+    "visibility_level": 20,
+    "path_with_namespace": "joshwolff1/spontit-webhook-gitlab-test",
+    "default_branch": "master",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+    "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git"
+  },
+  "object_attributes": {
+    "assignee_id": null,
+    "author_id": 6440525,
+    "created_at": "2020-07-18T03:15:48.140Z",
+    "description": "New merge request between new branch and master",
+    "head_pipeline_id": null,
+    "id": 64820340,
+    "iid": 1,
+    "last_edited_at": null,
+    "last_edited_by_id": null,
+    "merge_commit_sha": null,
+    "merge_error": null,
+    "merge_params": {
+      "force_remove_source_branch": "1"
+    },
+    "merge_status": "cannot_be_merged",
+    "merge_user_id": null,
+    "merge_when_pipeline_succeeds": false,
+    "milestone_id": null,
+    "source_branch": "new-branch",
+    "source_project_id": 20020099,
+    "state_id": 1,
+    "target_branch": "master",
+    "target_project_id": 20020099,
+    "time_estimate": 0,
+    "title": "Merge the new branch",
+    "updated_at": "2020-07-18T03:15:48.140Z",
+    "updated_by_id": null,
+    "url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test/-/merge_requests/1",
+    "source": {
+      "id": 20020099,
+      "name": "spontit-webhook-gitlab-test",
+      "description": "",
+      "web_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "git_http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git",
+      "namespace": "Josh Wolff",
+      "visibility_level": 20,
+      "path_with_namespace": "joshwolff1/spontit-webhook-gitlab-test",
+      "default_branch": "master",
+      "ci_config_path": "",
+      "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+      "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git"
+    },
+    "target": {
+      "id": 20020099,
+      "name": "spontit-webhook-gitlab-test",
+      "description": "",
+      "web_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "git_http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git",
+      "namespace": "Josh Wolff",
+      "visibility_level": 20,
+      "path_with_namespace": "joshwolff1/spontit-webhook-gitlab-test",
+      "default_branch": "master",
+      "ci_config_path": "",
+      "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test",
+      "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "ssh_url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+      "http_url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test.git"
+    },
+    "last_commit": {
+      "id": "975b7fcc4c68a7ccd51d4d77b9b55debe1875879",
+      "message": "Add new file",
+      "title": "Add new file",
+      "timestamp": "2020-07-17T23:43:15+00:00",
+      "url": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test/-/commit/975b7fcc4c68a7ccd51d4d77b9b55debe1875879",
+      "author": {
+        "name": "Josh Wolff",
+        "email": "apple@apple.org"
+      }
+    },
+    "work_in_progress": false,
+    "total_time_spent": 0,
+    "human_total_time_spent": null,
+    "human_time_estimate": null,
+    "assignee_ids": [
+
+    ],
+    "state": "opened"
+  },
+  "labels": [
+
+  ],
+  "changes": {
+
+  },
+  "repository": {
+    "name": "spontit-webhook-gitlab-test",
+    "url": "git@gitlab.com:joshwolff1/spontit-webhook-gitlab-test.git",
+    "description": "",
+    "homepage": "https://gitlab.com/joshwolff1/spontit-webhook-gitlab-test"
+  }
+}
