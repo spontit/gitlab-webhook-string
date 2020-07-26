@@ -1,6 +1,6 @@
 # GitLab Webhook Body
 
-You can integrate the <a href="https://api.spontit.com">Spontit API</a> with GitLab webhooks. For instructions on how to do so, see <a href="todo">here</a>.
+You can integrate the <a href="https://api.spontit.com">Spontit API</a> with GitLab webhooks. For instructions on how to do so, see <a href="https://youtu.be/sDOlAywwoEE">here</a>.
 
 We use the function in `get_gitlab_webhook_body.py` on our server to generate the body of the notification. 
 
